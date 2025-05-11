@@ -17,6 +17,6 @@ phases:
 
 artifacts:
   files:
-    - target/nextwork-web-project.war
+    - target/nextwork-web-project-1.0-SNAPSHOT.war
   discard-paths: no
 
